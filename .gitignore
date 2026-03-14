@@ -1,0 +1,30 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Hive (Lokal baza fayllari GitHubga chiqmasligi kerak)
+*.hive
+*.lock
+
+# Android
+.gradle/
+local.properties
+*.keystore
+*.jks
+*.apk
+*.aab
+
+# iOS
+.generated/
+Pods/
+*.xcworkspace
+
+# IDE
+.idea/
+.vscode/
+*.iml
